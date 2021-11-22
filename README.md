@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/vermaxik/vermaxik/raw/master/elixir.gif" width="250">
-
 ### Hi everyone, welcome to my GitHub profile :wave:
 
 My name is Maksym Verbovyi (or just Maks).
